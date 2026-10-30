@@ -4,6 +4,14 @@ RetailPulse is an end-to-end retail analytics portfolio project. It turns publis
 
 > **Data integrity rule:** this repository does not include fabricated transaction records. Download the source files and inspect the actual schema before interpreting any KPI. The app intentionally hides customer, returns, geography and inventory-cover analysis when the necessary fields are unavailable.
 
+## 🚀 Live Dashboard
+
+Explore the interactive RetailPulse dashboard:
+
+**[Open RetailPulse Live Dashboard](https://retailpulse-shreya.streamlit.app/)**
+
+Built with Python, Streamlit, Plotly, and SQL.
+
 ## 1. Dataset
 
 **Retail Transactions and Stocks Data** — Jimmy Smith, Mendeley Data, Version 1, published 27 April 2026.  
